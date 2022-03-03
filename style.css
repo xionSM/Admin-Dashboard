@@ -134,6 +134,7 @@ body {
     border-radius: 8px;
     padding: 10px;
     padding-left: 1rem;
+    box-shadow: 1px 3px 7px -2px #8080808a;
 }
 .name {
     display: flex;
@@ -208,6 +209,7 @@ body {
     display: flex;
     flex-flow: column;
     padding: 1rem;
+    box-shadow: 1px 3px 7px -2px #8080808a;
 }
 .cell > p, .text > p {
     margin: 0;
